@@ -11,6 +11,8 @@ function draw() {
 
 	rotateX(degree);
 	rotateZ(degree);
+	translate(0, 0, mouseX);
+
     
 	torus(120, 20);
 
