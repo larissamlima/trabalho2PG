@@ -16,4 +16,4 @@ Pirâmide: o objeto multicolorido foi implementado com o auxilio da linguagem Ja
 
 ## Execução
 
-Para visualizar cada implementação, basta rodar cada um dos arquivos '.html' que se encontram neste repositório.
+Para visualizar cada uma das implementações, basta rodar cada um dos arquivos '.html' que se encontram neste repositório.
